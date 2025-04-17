@@ -37,7 +37,7 @@ VITE_DEEPSEEK_API_KEY=xxxxxxx
 
 ### 1. Cloner le dépôt
 ```bash
-git clone git@github.com/WilliamPltr/StreamList.git streamlist
+git clone https://github.com/WilliamPltr/StreamList.git Streamlist
 cd streamlist
 ```
 
@@ -77,7 +77,7 @@ npm run preview
 ### 2. Cloner et configurer le projet
 ```bash
 cd <emplacement_du_dossier>
-sudo git clone git@github.com/WilliamPltr/StreamList.git streamlist
+sudo git clone https://github.com/WilliamPltr/StreamList.git Streamlist
 cd streamlist
 sudo npm install
 sudo cp .env.example .env  # ou crée le .env à la main
